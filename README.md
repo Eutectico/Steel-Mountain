@@ -200,6 +200,7 @@ _________________________________________________________
 Scan the machine with nmap. What is the other port running a web server on?
 
 **Answer: 8080**
+
 Take a look at the other web server. What file server is running?
 
     http://<victim_ip>:8080
